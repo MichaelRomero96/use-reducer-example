@@ -1,4 +1,4 @@
-
+// objeto para guardar los tipos de acciones
 export const types_2 = {
     DELETE_PRODUCT_ALL: 'DELETE_PRODUCT_ALL',
     CHANGE_PRODUCTS: 'CHANGE_PRODUCTS'
